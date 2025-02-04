@@ -17,7 +17,7 @@ Installation
 
 To run this project locally, follow these steps:
 Clone the repository:
-git clone https://github.com/your-username/ipl-data-analysis.git
+git clone https://github.com/Strange0000/ipl-data-analysis.git
 Navigate to the project directory:
 cd ipl-data-analysis
 

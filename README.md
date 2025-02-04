@@ -1,4 +1,4 @@
-# IDataset
+# IPL Dataset
 
 The project uses two CSV files:
 deliveries.csv - Contains ball-by-ball data of IPL matches.
